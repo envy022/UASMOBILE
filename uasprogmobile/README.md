@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implementasi UI Menggunakan Bahasa Flutter 
 
 Nama : Nurul Huda Ahmad Dani
@@ -14,3 +15,6 @@ Kelas : B
 # Sertifikat Tubes dan Badge
 ![A POS application](photo/Badges.png)
 ![A POS application](photo/Sertif.png)
+=======
+
+>>>>>>> 3ec16eb372679e86ea31c3e4b60ca7f79177ced4
