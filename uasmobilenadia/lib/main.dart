@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Hello,Nurul  ',
+                          'Hello,Nadia  ',
                           style: TextStyle(
                             fontSize: 24,
                             fontWeight: FontWeight.bold,
@@ -47,7 +47,7 @@ class MyHomePage extends StatelessWidget {
                       ],
                     ),
                     AvatarFrame(
-                      imageUrl: 'https://i.pinimg.com/564x/e4/e0/02/e4e002998ed2fdf3e6bb5f42a0845b88.jpg',
+                      imageUrl: 'https://id.pngtree.com/freepng/beautiful-girl_9173626.html',
                     ),
                   ],
                 ),
@@ -92,7 +92,7 @@ class MyHomePage extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.only(left: 8.0),
                             child: AvatarFrame(
-                              imageUrl: 'https://i.pinimg.com/564x/eb/cb/c6/ebcbc6aaa9deca9d6efc1efc93b66945.jpg',
+                              imageUrl: 'https://id.pngtree.com/freepng/a-pretty-baby-girl-in-a-santa-christmas-costume-is-surprised-by-something_13495639.html',
                             ),
                           ),
                         ],
@@ -174,7 +174,7 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       RecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/39/63/05/3963054814cc53e0be8d2481a728835b.jpg',
+                        imageUrl: 'https://i.pinimg.com/236x/00/22/b9/0022b9ae4cff08e1cdfd6eecc739107a.jpg',
                         dishName: 'Spaghetti Bolognese',
                         time: '30-45 Minutes',
                         difficulty: 'Medium',
@@ -182,7 +182,7 @@ class MyHomePage extends StatelessWidget {
                       ),
                       SizedBox(width: 20),
                       RecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/86/f4/9f/86f49f12a18682310a66e4b7e778bad7.jpg',
+                        imageUrl: 'https://i.pinimg.com/236x/0e/7d/8c/0e7d8cb3ac986ee87fd62f34d7f4f233.jpg',
                         dishName: 'Classic Beef Stew',
                         time: '45-60 Minutes',
                         difficulty: 'Easy',
@@ -224,7 +224,7 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       AvatarRecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/66/14/d2/6614d28992474dcb6559e4bdb334d1d6.jpg',
+                        imageUrl: 'https://i.pinimg.com/236x/fb/6f/8c/fb6f8cd90beea14d6c41dc915152b625.jpg',
                         chefName: 'chef juna',
                         time: '124',
                         like: '41391',
@@ -232,11 +232,11 @@ class MyHomePage extends StatelessWidget {
                       ),
                       SizedBox(width: 10),
                       AvatarRecipeCard(
-                        imageUrl: 'https://i.pinimg.com/736x/61/39/c3/6139c32fadd423438e8c36081eacb7fc.jpg',
-                        chefName: 'chef gordon',
+                        imageUrl: 'https://i.pinimg.com/236x/42/c2/f7/42c2f71740ae356beccef7b27f696c1f.jpg',
+                        chefName: 'chef renata',
                         time: '98',
                         like: '7323',
-                        dishName: 'chef gordon',
+                        dishName: 'chef renata',
                       ),
                     ],
                   ),
