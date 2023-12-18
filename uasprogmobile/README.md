@@ -1,8 +1,10 @@
-# Implementasi UI UAS Mobpro
+# Implementasi UI Menggunakan Bahasa Flutter 
 
-Nama : 
+Nama : Nurul Huda Ahmad Dani
 
-NIM : 211402092
+NIM : 211402017
+
+Kelas : B
 
 ![A POS application](photo/Output.png)
 ![A POS application](photo/Output2.png)
