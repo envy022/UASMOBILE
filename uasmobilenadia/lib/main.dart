@@ -47,7 +47,7 @@ class MyHomePage extends StatelessWidget {
                       ],
                     ),
                     AvatarFrame(
-                      imageUrl: 'https://i.pinimg.com/564x/4b/cc/54/4bcc54ebe6d0e6700e3df3047c1129c8.jpg',
+                      imageUrl: 'https://i.pinimg.com/564x/e4/e0/02/e4e002998ed2fdf3e6bb5f42a0845b88.jpg',
                     ),
                   ],
                 ),
@@ -92,7 +92,7 @@ class MyHomePage extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.only(left: 8.0),
                             child: AvatarFrame(
-                              imageUrl: 'https://i.pinimg.com/564x/2a/46/1b/2a461be0a6954dd26c731d92d497d712.jpg',
+                              imageUrl: 'https://i.pinimg.com/564x/eb/cb/c6/ebcbc6aaa9deca9d6efc1efc93b66945.jpg',
                             ),
                           ),
                         ],
@@ -174,19 +174,19 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       RecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/00/22/b9/0022b9ae4cff08e1cdfd6eecc739107a.jpg',
+                        imageUrl: 'https://i.pinimg.com/564x/39/63/05/3963054814cc53e0be8d2481a728835b.jpg',
                         dishName: 'Spaghetti Bolognese',
                         time: '30-45 Minutes',
                         difficulty: 'Medium',
-                        chefName: 'Miriam belia',
+                        chefName: 'chef albert',
                       ),
                       SizedBox(width: 20),
                       RecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/93/13/ff/9313ffdb567f18108d2fd6ca3658bf83.jpg',
+                        imageUrl: 'https://i.pinimg.com/564x/86/f4/9f/86f49f12a18682310a66e4b7e778bad7.jpg',
                         dishName: 'Classic Beef Stew',
                         time: '45-60 Minutes',
                         difficulty: 'Easy',
-                        chefName: 'James Niki',
+                        chefName: 'chef juna',
                       ),
                     ],
                   ),
@@ -224,19 +224,19 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       AvatarRecipeCard(
-                        imageUrl: 'https://i.pinimg.com/564x/d2/35/47/d2354797cfb995122e8bf0248cb1fd76.jpg',
-                        chefName: 'James Niki',
+                        imageUrl: 'https://i.pinimg.com/564x/66/14/d2/6614d28992474dcb6559e4bdb334d1d6.jpg',
+                        chefName: 'chef juna',
                         time: '124',
                         like: '41391',
-                        dishName: 'James',
+                        dishName: 'chef juna',
                       ),
                       SizedBox(width: 10),
                       AvatarRecipeCard(
-                        imageUrl: 'https://i.pinimg.com/736x/c1/5b/e5/c15be566cd18bebf15bcd6163fc2abd6.jpg',
-                        chefName: 'Miriam belia',
+                        imageUrl: 'https://i.pinimg.com/736x/61/39/c3/6139c32fadd423438e8c36081eacb7fc.jpg',
+                        chefName: 'chef gordon',
                         time: '98',
                         like: '7323',
-                        dishName: 'Belia',
+                        dishName: 'chef gordon',
                       ),
                     ],
                   ),
